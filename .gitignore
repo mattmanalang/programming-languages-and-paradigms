@@ -9,3 +9,6 @@ hw0/.vs/VSWorkspaceState.json
 hw0/.vs/hw0/v17/.suo
 hw0/.vs/hw0/v17/Browse.VC.db
 hw0/.vs/hw0/v17/ipch/AutoPCH/3944fc55f103e421/MAIN.ipch
+hw0/topword.dSYM/Contents/Info.plist
+hw0/topword.dSYM/Contents/Resources/DWARF/topword
+hw0/topword

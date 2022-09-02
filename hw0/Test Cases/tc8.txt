@@ -1,0 +1,10 @@
+count,count,count,count,count,count,count,count,count,the,the,the,the
+gold1.gold,gold,1,1,king king
+count,count,count,count,count,count count,count,count,the,the,gold,the
+123 123 123 123 123 123 123 gold.gold,gold,1,1,king king
+count,count,count,count,count,count,count,count,count,the,the,the,the
+gold.gold,gold,1,1,king king
+word,word,word,word,word,word,word,word,word,word,the,the,gold,the
+123 123 123 123 123 123 123 gold.gold,gold,1,1,king king
+words,words,words,words,words,words,words,words,words,words,words,words
+words123 words123 words123

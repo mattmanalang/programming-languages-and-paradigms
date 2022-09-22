@@ -42,7 +42,7 @@ Example with *k* = 3:
 >
 > 0 500
 >
-> .real:
+> real:
 >
 > -2.1 100
 >
@@ -54,10 +54,12 @@ Example with *k* = 3:
 - Programming Language: Python 3.xx
 - **Functional programming** is the main requirement. All functions should be recursive, there should be *no mutation* and all computations will happen via lists.
 - **Functional expressions**: The program should internally use lambda expressions to convert integers, instead of built-in functions. The program should use map()/reduce() functional constructs to compute frequencies when possible
-- Lists (as available in the language) are required to store numbers: input, temporary, and output. Primitive operators provided by the language should be used. Array-based lists (provided by the language) are allowed.
-   Use of existing Python libraries with numeric arrays (e.g. numpy), dictionaries, or hash table data structures are not allowed. These libraries defeat a functional programming approach and do all the algorithmic work.
+- Lists (as available in the language) are required to store numbers: input, temporary, and output. Primitive operators provided by the language should be used. Array-based lists (provided by the language) are allowed.  
+   Use of existing Python libraries with numeric arrays (e.g. numpy), dictionaries, or hash table data structures are not allowed. These libraries defeat a functional programming approach and do all the algorithmic work.  
    You are expected to develop recursive algorithms.
 - Again, **no mutation**. Lists cannot be mutated, especially for sorting. Mutation in a growing list to read the input file is acceptable, but can be avoided. Mutation to insert or delete elements from lists should be avoided if possible.
 - Follow a "strongly typed" language approach. Lists will be strongly typed; one list for integers and one for real nnumbers. Do not mix them.
-- Recursive functions are required to process all lists. Loops (while/for) to process the list(s) are unacceptable.
+- Recursive functions are required to process all lists. Loops (while/for) to process the list(s) are unacceptable.  
    While loops are only acceptable for I/O to read the input file into a list, but recursive I/O functions are encouraged. It's okay if they're slow.
+- **Search and Sort Algorithms**: The lists should have recursive search and sort algorithms, without mutation. It is acceptable to have an *O(n^2^)* sort algorithm, but *O(nlog(n))* is encouraged; specify which one is being used.  
+   Search can also 

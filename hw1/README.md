@@ -61,7 +61,7 @@ Example with *k* = 3:
 - Follow a "strongly typed" language approach. Lists will be strongly typed; one list for integers and one for real nnumbers. Do not mix them.
 - Recursive functions are required to process all lists. Loops (while/for) to process the list(s) are unacceptable.  
   While loops are only acceptable for I/O to read the input file into a list, but recursive I/O functions are encouraged. It's okay if they're slow.
-- **Search and Sort Algorithms**: The lists should have recursive search and sort algorithms, without mutation. It is acceptable to have an *O(n^2^)* sort algorithm, but *O(nlog(n))* is encouraged; specify which one is being used.  
+- **Search and Sort Algorithms**: The lists should have recursive search and sort algorithms, without mutation. It is acceptable to have an *O(n<sup>2</sup>)* sort algorithm, but *O(nlog(n))* is encouraged; specify which one is being used.  
   Search can also be sequential or binary, although binary is preferred.  
   You cannot use built-in sort functions since they produce variable mutations.
 - Rank ties should be considered (i.e. integers or reals having the same frequency). If you cannot handle ties, explain why.

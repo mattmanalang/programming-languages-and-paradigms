@@ -62,4 +62,7 @@ Example with *k* = 3:
 - Recursive functions are required to process all lists. Loops (while/for) to process the list(s) are unacceptable.  
   While loops are only acceptable for I/O to read the input file into a list, but recursive I/O functions are encouraged. It's okay if they're slow.
 - **Search and Sort Algorithms**: The lists should have recursive search and sort algorithms, without mutation. It is acceptable to have an *O(n^2^)* sort algorithm, but *O(nlog(n))* is encouraged; specify which one is being used.  
-  Search can also 
+  Search can also be sequential or binary, although binary is preferred.  
+  You cannot use built-in sort functions since they produce variable mutations.
+- Rank ties should be considered (i.e. integers or reals having the same frequency). If you cannot handle ties, explain why.
+- A list needs to be passed as function argument and/or function return value but it cannot be a global variable.

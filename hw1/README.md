@@ -34,14 +34,14 @@ The format of the output file should be the number followed by it's frequency, o
 There will be two lists: one for integers and one for reals.
 
 Example with *k* = 3:
-integer:
-1 1000
--1 500
-0 500
-real:
--2.1 100
-3.1416 5
-1.5 3
+> integer:
+> 1 1000
+> -1 500
+> 0 500
+> .real:
+> -2.1 100
+> 3.1416 5
+> 1.5 3
 
 ### Requirements
 - Programming Language: Python 3.xx

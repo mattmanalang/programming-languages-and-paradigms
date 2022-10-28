@@ -16,3 +16,8 @@ hw0/.vscode/settings.json
 .gitignore
 .DS_Store
 hw1/Test Cases/run.sh
+hw0/hw0-string-topword.pdf
+hw1/hw1-string-topkfreqnumber.pdf
+hw2/hw2-pyinterpreter-expressions.pdf
+hw1/out.txt
+hw1/__pycache__/ArgumentParser.cpython-310.pyc

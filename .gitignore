@@ -21,3 +21,6 @@ hw1/hw1-string-topkfreqnumber.pdf
 hw2/hw2-pyinterpreter-expressions.pdf
 hw1/out.txt
 hw1/__pycache__/ArgumentParser.cpython-310.pyc
+hw2/.vscode/launch.json
+hw2/.vscode/settings.json
+.gitignore

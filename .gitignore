@@ -24,3 +24,8 @@ hw1/__pycache__/ArgumentParser.cpython-310.pyc
 hw2/.vscode/launch.json
 hw2/.vscode/settings.json
 .gitignore
+hw2/.vscode/c_cpp_properties.json
+hw2/minipython.dSYM/Contents/Info.plist
+hw2/minipython
+hw2/minipython.exe
+hw2/minipython.dSYM/Contents/Resources/DWARF/minipython
